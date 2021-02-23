@@ -1,0 +1,65 @@
+main {
+    width: 960px;
+    margin: auto;
+    line-height: 1.5;
+   
+  }
+  nav ul li {
+  display: inline;
+  padding: 25px;
+  margin: 0 24px;
+  border: 30px;
+  vertical-align:middle;
+  
+  
+  }
+  nav{
+      margin: 30px;
+      text-align: center;
+  }
+  
+  header{
+  background-color: gray;
+  
+  }
+  
+   article p {
+  overflow: scroll;
+  width: 48%;
+  height: 300px;
+  margin: 1%;
+  
+  }
+  main div span{
+  
+      margin: 26px;
+  }
+  section img
+  {
+      margin-right:2%;
+      display: block;
+      float: left;
+  }
+  
+  article h2{
+  font-size: 30px;
+  }
+  
+  article button{
+  
+      background-color: black;
+      color: white;
+      font-size: 12px;
+      width: 20%;
+      height: 30%;
+      padding: 1%;
+  }
+  
+  main div{
+      margin: 30px 0;
+  }
+  footer{
+      background-color: gray;
+      height: 70px;
+      margin: 30px 0;
+  }
